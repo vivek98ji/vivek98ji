@@ -96,3 +96,14 @@
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=vivek98ji&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivek98ji/vivek98ji/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivek98ji/vivek98ji/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/vivek98ji/vivek98ji/output/github-snake.svg" />
+  </picture>
+</p>
